@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Brews -  4050 N. Brighton Blvd",
+    "jurisdiction": "City of Denver, CO",
+    "status": "Inactive",
+    "id": "1"
+  },
+  {
+    "name": "Brews -  4050 N. Brighton Blvd",
+    "jurisdiction": "City of Denver, CO",
+    "status": "Approved",
+    "id": "2"
+  },
+  {
+    "name": "Brews -  582 Main St",
+    "jurisdiction": "City of Denver, CO",
+    "status": "In Review",
+    "id": "3"
+  },
+  {
+    "name": "Manor High Warehouse Remodel",
+    "jurisdiction": "City of Manor, TX",
+    "status": "Not Started",
+    "id": "4"
+  },
+  {
+    "name": "1301 South Capital of Texas Highway",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "5"
+  },
+  {
+    "name": "Hogwarts School Solar Permits",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "6"
+  },
+  {
+    "name": "Follow Bank Gulfgate",
+    "jurisdiction": "City of Houston, TX",
+    "status": "Not Started",
+    "id": "7"
+  },
+  {
+    "name": "The Evergreen at Whisper Valley",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "8"
+  },
+  {
+    "name": "219 Detroit",
+    "jurisdiction": "City of Denver, CO",
+    "status": "Approved",
+    "id": "9"
+  },
+  {
+    "name": "Atlantic Ave - Store #37600",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "10"
+  },
+  {
+    "name": "Groceries Louisville, KY - Taylorville Rd - 2025 Minor Remodel",
+    "jurisdiction": "City of Louisville, KY",
+    "status": "Not Started",
+    "id": "11"
+  },
+  {
+    "name": "Groceries River Gorge",
+    "jurisdiction": "City of Louisville, KY",
+    "status": "Not Started",
+    "id": "12"
+  },
+  {
+    "name": "7328 Spicewood Springs Road",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "13"
+  },
+  {
+    "name": "Groceries 892 Plaza Blvd",
+    "jurisdiction": "City of Louisville, KY",
+    "status": "Not Started",
+    "id": "14"
+  },
+  {
+    "name": "White House Residence Addition",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Inactive",
+    "id": "15"
+  },
+  {
+    "name": "Deerfield Township, OH - Club Lounge",
+    "jurisdiction": "Warren County, OH",
+    "status": "Not Started",
+    "id": "16"
+  },
+  {
+    "name": "1602 Bay Hill Drive",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "17"
+  },
+  {
+    "name": "Atlantic Ave - Store #37600",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Preparing",
+    "id": "18"
+  },
+  {
+    "name": "Atlantic Ave - Store #53200",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Preparing",
+    "id": "19"
+  },
+  {
+    "name": "1800 21st Street",
+    "jurisdiction": "City of Denver, CO",
+    "status": "Approved",
+    "id": "20"
+  },
+  {
+    "name": "7625 Parkview Circle",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "21"
+  },
+  {
+    "name": "Testing Dates",
+    "jurisdiction": "Jurisdiction Unknown",
+    "status": "Not Started",
+    "id": "22"
+  },
+  {
+    "name": "A New Office/Workshop for The Family",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "23"
+  },
+  {
+    "name": "Gamma Hotels by Acme Austin University",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "24"
+  },
+  {
+    "name": "Waterloo Heights",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "25"
+  },
+  {
+    "name": "Waterloo Park",
+    "jurisdiction": "City of Austin, TX",
+    "status": "In Review",
+    "id": "26"
+  },
+  {
+    "name": "ABC Data Center",
+    "jurisdiction": "City of Flower Mound, TX",
+    "status": "Approved",
+    "id": "27"
+  },
+  {
+    "name": "Olive Street",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "28"
+  },
+  {
+    "name": "Gamma Hotels by Acme Austin University",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "29"
+  },
+  {
+    "name": "406 W Whitestone, Bldg 2, Ste 204",
+    "jurisdiction": "City of Cedar Park, TX",
+    "status": "Approved",
+    "id": "30"
+  },
+  {
+    "name": "Recording Studio",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "31"
+  },
+  {
+    "name": "2001 South 1st Street",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "32"
+  },
+  {
+    "name": "FF Theaters",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Comments",
+    "id": "33"
+  },
+  {
+    "name": "723 W 12th Street",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "34"
+  },
+  {
+    "name": "Gamma Hotels by Acme Austin University",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Not Started",
+    "id": "36"
+  },
+  {
+    "name": "600 E ST Elmo Electrical Revision",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "37"
+  },
+  {
+    "name": "3314 Blumie Street",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "38"
+  },
+  {
+    "name": "Acme West Rezoning",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Preparing",
+    "id": "39"
+  },
+  {
+    "name": "Expo 7",
+    "jurisdiction": "City of Austin, TX",
+    "status": "Approved",
+    "id": "40"
+  },
+  {
+    "name": "480 Flatiron - Broomfield Rezone",
+    "jurisdiction": "City of Broomfield, CO",
+    "status": "Not Started",
+    "id": "41"
+  }
+]
